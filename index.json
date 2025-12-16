@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "slug": "hello-world",
+      "title": "Hello World",
+      "date": "2025-12-15",
+      "summary": "Welcome to the Boba Matcha engineering blog",
+      "tags": ["announcement", "meta"]
+    }
+  ]
+}
