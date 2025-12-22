@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "slug": "announcing-pdfjoin",
+      "title": "Announcing PDFJoin.org: Free PDF Merging & Splitting, Forever",
+      "date": "2025-12-22",
+      "summary": "Introducing PDFJoin.org—a completely free, local-first PDF merging and splitting tool where your files never leave your device",
+      "tags": ["announcement", "product", "local-first", "privacy"]
+    },
+    {
       "slug": "hello-world",
       "title": "Hello World",
       "date": "2025-12-15",
