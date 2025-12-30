@@ -8,10 +8,10 @@ Contractor fraud is rising in Florida. Before you hire someone to work on your h
 
 The numbers are bad:
 
-- [Florida ranks #3 in the nation for contractor fraud complaints](https://consumer.ftc.gov/articles/hiring-contractor)
-- [Homeowners lose an average of $15,000 to unlicensed contractors](https://www.nolo.com/legal-encyclopedia/unlicensed-contractors-what-homeowners-need-know.html)
-- [Hurricane seasons see a 300% spike in contractor scams](https://www.iii.org/article/how-avoid-contractor-fraud-after-disaster)
-- [15% of "licensed" contractors have expired licenses](https://www.myfloridalicense.com/wl11.asp?mode=0&SID=)
+- [Florida ranks #1 for fraud per capita, with $866 million in losses reported in 2024](https://www.synovus.com/personal/resource-center/fraud-prevention-and-security-hub/fraud-hub-education-and-prevention/featured/fraud-in-florida-and-georgia/)
+- [Insurance fraud cases against Florida contractors nearly doubled from 2019 to 2021](https://www.conroysimberg.com/blog/contractor-fraud-and-abuse-negatively-impacting-the-florida-insurance-industry/)
+- [51% of Floridians displaced by hurricanes were targeted by contractor scams](https://floridadaily.com/florida-more-than-half-of-disaster-displaced-residents-targeted-by-scammers/)
+- [Contractor fraud is a "billion-dollar problem" in Florida, with some victims losing over $1 million](https://www.news4jax.com/news/local/2024/11/11/a-billion-dollar-problem-contractor-fraud-is-rampant-in-florida-heres-how-to-protect-yourself/)
 
 ## Free
 
