@@ -15,6 +15,6 @@ The numbers are bad:
 
 ## Free
 
-This tool is free for public use. No account required.
+Free. No account required.
 
 Try it: [FloridaContractorVerify.com](https://floridacontractorverify.com)
