@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "slug": "beta-getsignatures",
+      "title": "Beta: GetSignatures.org",
+      "date": "2026-01-15",
+      "summary": "DocuSign alternative in beta. Free usage for bug reporters.",
+      "tags": ["announcement", "product", "beta"]
+    },
+    {
       "slug": "announcing-florida-contractor-verify",
       "title": "Announcing FloridaContractorVerify.com",
       "date": "2025-12-30",

@@ -14,7 +14,7 @@ Two reasons:
 
 2. Cheaper to experiment. No cloud costs scaling with usage means we can try more things without burning money.
 
-The second reason matters more than it sounds. When trying things is cheap, you try more things.
+When trying things is cheap, you try more things.
 
 ## On Releasing Software
 
@@ -30,7 +30,7 @@ Demos (experiments in local-first architecture with modern Rust):
 - [Kanban Board](https://bobamatchasolutions.com/#/kanban): imports GitHub issues, exports to JSON, works offline
 - [Flappy Bird](https://bobamatchasolutions.com/#/flappybird) and [Pac-Man](https://bobamatchasolutions.com/#/pacman): load once, play anywhere
 
-The demos taught us the stack. Local-first in Rust is way easier now than it was in 2021. Not surprising if you've been paying attention.
+The demos taught us the stack. Local-first in Rust is way easier now than it was in 2021.
 
 ## Contact
 

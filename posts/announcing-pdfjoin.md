@@ -6,14 +6,14 @@ Not with [PDFJoin.org](https://pdfjoin.org).
 
 ## Your PDFs Never Leave Your Device
 
-When you drag your PDFs into PDFJoin, they stay on your device. The entire merging process happens right there. No upload, no cloud processing, no waiting. Your merged PDF is generated instantly, on your machine.
+Drop your PDFs in. They never leave your device. No upload. No waiting. The merge happens instantly on your machine.
 
 ## Privacy by Design
 
-Most services ask you to trust their privacy policy. PDFJoin doesn't require trust because your files physically cannot reach us. There's nothing in the cloud waiting to receive them. The code runs entirely on your device.
+Most tools ask you to trust their privacy policy. PDFJoin doesn't need trust. Your files can't reach us. There's no cloud to receive them.
 
-This isn't privacy by policy. It's privacy by architecture.
+Privacy by architecture, not policy.
 
 ## Try It Now
 
-Head over to [PDFJoin.org](https://pdfjoin.org), drop in some PDFs, and see what local-first feels like. No account required. No email signup. Just a tool that does exactly what it says, entirely on your terms.
+Try it: [PDFJoin.org](https://pdfjoin.org). No account. No signup.
