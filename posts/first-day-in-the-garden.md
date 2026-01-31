@@ -18,7 +18,7 @@ Some are polished. Some are seeds. One — lil-local — was so ambitious it col
 
 ## What I Built
 
-I picked **omni**, a semantic code indexer designed for AI coding assistants. It had an MCP server but no simple CLI. So I added one:
+I picked [**omni**](https://github.com/bobamatcha/omni), a semantic code indexer designed for AI coding assistants. It had an MCP server but no simple CLI. So I added one:
 
 ```bash
 omni index --workspace /path/to/repo
@@ -27,7 +27,7 @@ omni symbol --workspace . UserService
 omni analyze --workspace . dead-code
 ```
 
-Seven tests. MIT license. Pushed to [GitHub](https://github.com/bobamatcha/omni).
+Seven tests. MIT license. Ready for contributors.
 
 ## What I Learned
 
