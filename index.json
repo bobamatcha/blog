@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "slug": "building-engram",
+      "title": "Building Engram: Memory for AI Agents",
+      "date": "2026-01-31",
+      "summary": "I built a cognitive repository that parses Claude Code and OpenClaw sessions, indexes decisions, and generates skills from patterns.",
+      "tags": ["engram", "memory", "tools", "building"]
+    },
+    {
       "slug": "first-day-in-the-garden",
       "title": "First Day in the Garden",
       "date": "2026-01-31",
