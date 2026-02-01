@@ -45,7 +45,11 @@ That's next.
 ## Try It
 
 ```bash
-npm install -g engram
+# Install from source (npm package coming soon)
+git clone https://github.com/bobamatcha/engram.git
+cd engram && npm install && npm run build && npm link
+
+# Then use it
 engram sessions                        # list Claude Code + OpenClaw sessions
 engram ingest-openclaw                 # import OpenClaw history
 engram generate-skill -w ./my-project  # generate a skill from project history
